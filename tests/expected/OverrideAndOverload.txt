@@ -1,0 +1,20 @@
+-----------Class Base-----------
+--Variables---
+Base.counter : 0
+---Methods---
+Base.run : 0
+Base.stop : 8
+
+-----------Class Derived-----------
+--Variables---
+Derived.flag : 4
+---Methods---
+Derived.run : 16
+Derived.resume : 24
+
+-----------Class MoreDerived-----------
+--Variables---
+MoreDerived.extra : 5
+---Methods---
+MoreDerived.resume : 32
+

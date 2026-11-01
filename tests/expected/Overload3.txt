@@ -1,0 +1,11 @@
+-----------Class Base-----------
+--Variables---
+Base.data : 0
+---Methods---
+Base.get : 0
+
+-----------Class Derived-----------
+--Variables---
+---Methods---
+Derived.get : 8
+

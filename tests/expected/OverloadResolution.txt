@@ -1,0 +1,19 @@
+-----------Class A-----------
+--Variables---
+---Methods---
+
+-----------Class B-----------
+--Variables---
+---Methods---
+
+-----------Class Calc-----------
+--Variables---
+---Methods---
+Calc.pick : 0
+Calc.pick : 8
+Calc.pick : 16
+Calc.pick : 24
+Calc.pair : 32
+Calc.pair : 40
+Calc.pick : 48
+

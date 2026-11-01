@@ -1,0 +1,9 @@
+-----------Class Node-----------
+--Variables---
+Node.nxt : 0
+Node.val : 8
+---Methods---
+Node.init : 0
+Node.next : 8
+Node.value : 16
+

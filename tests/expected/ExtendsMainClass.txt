@@ -1,0 +1,6 @@
+-----------Class Sub-----------
+--Variables---
+Sub.x : 0
+---Methods---
+Sub.go : 0
+

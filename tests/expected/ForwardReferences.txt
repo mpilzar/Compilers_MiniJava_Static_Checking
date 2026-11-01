@@ -1,0 +1,23 @@
+-----------Class Owner-----------
+--Variables---
+Owner.later : 0
+Owner.other : 8
+---Methods---
+Owner.init : 0
+
+-----------Class Later-----------
+--Variables---
+Later.value : 0
+---Methods---
+Later.use : 0
+Later.use : 8
+
+-----------Class Other-----------
+--Variables---
+---Methods---
+Other.get : 0
+
+-----------Class Unrelated-----------
+--Variables---
+---Methods---
+

@@ -1,0 +1,18 @@
+-----------Class Pet-----------
+--Variables---
+---Methods---
+
+-----------Class Cat-----------
+--Variables---
+---Methods---
+
+-----------Class Fish-----------
+--Variables---
+---Methods---
+
+-----------Class Handler-----------
+--Variables---
+---Methods---
+Handler.handle : 0
+Handler.handle : 8
+

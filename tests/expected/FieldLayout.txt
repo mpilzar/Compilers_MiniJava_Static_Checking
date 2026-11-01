@@ -1,0 +1,18 @@
+-----------Class Shape-----------
+--Variables---
+Shape.visible : 0
+Shape.width : 1
+Shape.points : 5
+Shape.filled : 13
+Shape.next : 14
+Shape.height : 22
+---Methods---
+Shape.area : 0
+
+-----------Class Square-----------
+--Variables---
+Square.rounded : 26
+Square.side : 27
+---Methods---
+Square.perimeter : 8
+

@@ -1,0 +1,21 @@
+-----------Class Animal-----------
+--Variables---
+---Methods---
+Animal.legs : 0
+
+-----------Class Dog-----------
+--Variables---
+---Methods---
+
+-----------Class Puppy-----------
+--Variables---
+---Methods---
+
+-----------Class Shelter-----------
+--Variables---
+Shelter.last : 0
+Shelter.adopted : 8
+---Methods---
+Shelter.adopt : 0
+Shelter.count : 8
+

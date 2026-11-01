@@ -1,0 +1,7 @@
+-----------Class Ops-----------
+--Variables---
+Ops.data : 0
+---Methods---
+Ops.all : 0
+Ops.twice : 8
+

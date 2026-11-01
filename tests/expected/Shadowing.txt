@@ -1,0 +1,14 @@
+-----------Class Parent-----------
+--Variables---
+Parent.value : 0
+Parent.ready : 4
+---Methods---
+Parent.setValue : 0
+
+-----------Class Child-----------
+--Variables---
+Child.value : 5
+---Methods---
+Child.test : 8
+Child.check : 16
+

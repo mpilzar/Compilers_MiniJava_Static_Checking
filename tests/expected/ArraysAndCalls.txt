@@ -1,0 +1,7 @@
+-----------Class Vec-----------
+--Variables---
+Vec.last : 0
+---Methods---
+Vec.make : 0
+Vec.sum : 8
+

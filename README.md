@@ -1,5 +1,7 @@
 # MiniJava Semantic Analyzer
 
+Part 2 of the projects for the Compilers class on implementing MiniJava compilers.
+
 A static checker for **MiniJava**, an object-oriented subset of Java. It is the front end of a
 compiler: it parses a source file, builds a symbol table, enforces the type system (single
 inheritance, method overriding and a restricted form of overloading), and computes the
